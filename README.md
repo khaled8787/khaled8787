@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
-## Hi, Khaled Mahmud
+## Hi, I am Khaled Mahmud
 ### Full-Stack Web Developer
 
 I am a passionate Full-Stack Web Developer who loves building clean, responsive, and user-friendly web applications.
