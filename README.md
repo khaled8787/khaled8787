@@ -1,5 +1,5 @@
-![Banner]([PASTE_BANNER_LINK_HERE](https://raw.githubusercontent.com/ashutosh1919/ashutosh1919/master/assets/github-snake-dark.svg
-))
+![Banner](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 
 ## Hi, Khaled Mahmud
 ### Full-Stack Web Developer
@@ -32,14 +32,14 @@ I am always eager to learn new tools and take on new challenges.
 ### 🔗 Connect With Me
 - 🌐 GitHub: https://github.com/khaled8787
 - 💼 LinkedIn: LINKEDIN_LINK
-- 📧 Email: your@email.com
+- 📧 Email: mdkhaledmahmud01737@gmail.com
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaled8787&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaled8787&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khaled8787&theme=radical)
