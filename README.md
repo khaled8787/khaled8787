@@ -38,8 +38,9 @@ I am always eager to learn new tools and take on new challenges.
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaled8787&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=khaled8787&show_icons=true&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaled8787&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled8787&layout=compact&hide_border=true" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khaled8787&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=khaled8787&hide_border=true" />
+
