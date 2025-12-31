@@ -42,7 +42,8 @@ I am always eager to learn new tools and take on new challenges.
 
 
 
-### 📊 GitHub Activity
+### 📈 Contribution Activity
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=khaled8787&theme=github-dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=khaled8787&theme=github-dark)
+
 
