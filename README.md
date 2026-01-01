@@ -31,7 +31,7 @@ I am always eager to learn new tools and take on new challenges.
 
 ### 🔗 Connect With Me
 - 🌐 GitHub: https://github.com/khaled8787
-- 💼 LinkedIn: LINKEDIN_LINK
+- 💼 LinkedIn: [LINKEDIN_LINK](https://www.linkedin.com/in/khaledmahmud8787/)
 - 📧 Email: mdkhaledmahmud01737@gmail.com
 
 ---
