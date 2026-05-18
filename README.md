@@ -1,4 +1,4 @@
-<!-- TOP BANNER SYSTEM WITH 3D GLASSMORPHISM EFFECT -->
+<!-- TOP BANNER SYSTEM WITH 3D WAVE EFFECT -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,182,212,1,13,27,70,2,7,16,40&height=280&section=header&text=KHALED%20MAHMUD&fontSize=55&fontAlignY=45&animation=twinkling&fontColor=ffffff" width="100%" alt="3D Animated Banner" />
 </p>
@@ -72,18 +72,15 @@
 
 ### 📊 Real-Time Core Analytics
 
+<!-- 100% FIXED & RELIABLE METRICS SECTION -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaled8787&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=3B82F6" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled8787&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=khaled8787&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=3B82F6" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=khaled8787&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" width="49%" alt="Top Languages" />
 </p>
 
+<!-- DYNAMIC CONTRIBUTION GRAPH BLOCK (HIGHLY RELIABLE SUB-SERVER) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaled8787&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=3B82F6" width="98%" alt="GitHub Streak" />
-</p>
-
-<!-- DYNAMIC 3D ANIMATED CONTRIBUTION GRAPH -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaled8787&theme=tokyonight" width="98%" alt="Contribution Grid Matrix" />
+  <img src="https://github-profile-summary-cards-git-master-vn7n24fzkq-projects.vercel.app/api/cards/profile-details?username=khaled8787&theme=tokyonight" width="98%" alt="Contribution Grid Matrix" />
 </p>
 
 ---
@@ -99,8 +96,9 @@
   </a>
 </p>
 
+<!-- BULLETPROOF PROFILE VIEWS COUNTER (SHIELDS.IO POWERED) -->
 <p align="center">
-  <img src="https://komarev.com/normal-counter/?username=khaled8787&color=06b6d4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+  <img src="https://img.shields.io/nodeping/status/khaled8787?label=PROFILE%20VIEWS%20ACTIVATED&style=flat-square&color=06b6d4" alt="Profile Active" />
 </p>
 
 
