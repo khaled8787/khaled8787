@@ -364,14 +364,21 @@ Deployment
 
 ---
 
-# 🏆 CONTRIBUTION STATUS
+# 📈 Contribution Statistics
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=khaled8787&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=khaled8787&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=khaled8787&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+<p align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=khaled8787&theme=tokyo-night&hide_border=true"/>
+
+</p>
 ---
 
 # 📡 CONNECT WITH ME
