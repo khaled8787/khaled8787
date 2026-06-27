@@ -374,11 +374,6 @@ Deployment
 
 </p>
 
-<p align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=khaled8787&theme=tokyo-night&hide_border=true"/>
-
-</p>
 ---
 
 # 📡 CONNECT WITH ME
