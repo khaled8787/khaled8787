@@ -151,8 +151,8 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khaled8787&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled8787&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khaled8787&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khaled8787&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -162,7 +162,10 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khaled8787&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=khaled8787&theme=algolia&no-frame=true&row=1&column=6"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
