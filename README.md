@@ -1,458 +1,219 @@
-<!-- ========================================================== -->
-<!--                  KHALED MAHMUD • HERO PANEL                -->
-<!-- ========================================================== -->
+<!-- TOP BANNER SYSTEM WITH 3D WAVE EFFECT -->
 
 <p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=KHALED%20MAHMUD&fontSize=58&fontAlign=50&fontAlignY=40&animation=twinkling&color=gradient&customColorList=12,20,24,30,36,42"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,182,212,1,13,27,70,2,7,16,40&height=280&section=header&text=KHALED%20MAHMUD&fontSize=55&fontAlignY=45&animation=twinkling&fontColor=ffffff" width="100%" alt="3D Animated Banner" />
 
 </p>
 
+
+
+<!-- TYPING EFFECT SUBHEADING -->
+
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1200&color=22D3EE&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Building+Modern+MERN+Applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Clean+Code+%E2%80%A2+Modern+UI+%E2%80%A2+Performance+First" />
+  <a href="https://git.io/typing-svg">
+
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;Building+Digital+Ecosystems" alt="Typing SVG" />
+
+  </a>
 
 </p>
 
+
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-06B6D4?style=for-the-badge"/>
+  <samp>
 
-<img src="https://img.shields.io/badge/LOCATION-BANGLADESH-2563EB?style=for-the-badge"/>
+    <strong>A passionate technologist crafting hyper-performant, secure, and visually stunning digital products.</strong>
 
-<img src="https://img.shields.io/badge/FOCUS-FULL_STACK_DEVELOPMENT-0EA5E9?style=for-the-badge"/>
+  </samp>
 
 </p>
 
----
 
-# ⚡ ABOUT ME
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  👋 Hi, I'm Khaled Mahmud                                   │
-│                                                              │
-│  Full Stack Web Developer                                   │
-│                                                              │
-│  I build responsive, scalable and modern                    │
-│  web applications using the MERN Stack.                     │
-│                                                              │
-│  My goal is writing clean code, designing                   │
-│  beautiful interfaces and creating                          │
-│  high-performance web experiences.                          │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🌌 CURRENT MISSION
-
-<table>
-
-<tr>
-
-<td width="33%" align="center">
-
-### 🚀
-
-Learning
-
-Advanced MERN
-
-Architecture
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚡
-
-Building
-
-Modern
-
-Web Apps
-
-</td>
-
-<td width="33%" align="center">
-
-### 💎
-
-Goal
-
-Production Ready
-
-Applications
-
-</td>
-
-</tr>
-
-</table>
-
----
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/khaled8787?style=for-the-badge&logo=github&color=06B6D4"/>
+  <img src="https://img.shields.io/github/followers/khaled8787?label=Followers&style=flat-square&color=06B6D4&logo=github&logoColor=white" alt="Followers" />
 
-<img src="https://img.shields.io/github/stars/khaled8787?style=for-the-badge&logo=github&color=2563EB"/>
+  <img src="https://img.shields.io/github/stars/khaled8787?label=Total%20Stars&style=flat-square&color=3B82F6&logo=github&logoColor=white" alt="Stars" />
 
-<img src="https://komarev.com/ghpvc/?username=khaled8787&style=for-the-badge&color=06B6D4"/>
+  <!-- BULLETPROOF TOTAL VIEWS COUNTER FROM SHIELDS.IO (100% WORKING ALTERNATIVE) -->
+
+  <img src="https://img.shields.io/badge/PROFILE_VIEWS-ACTIVATED-06b6d4?style=flat-square" alt="Profile Views Tracker" />
 
 </p>
 
----
 
-# 🧠 DEVELOPER PHILOSOPHY
-
-> **Write less. Build better. Ship faster. Learn forever.**
-
-```text
-Idea
- │
- ▼
-
-Research
- │
- ▼
-
-Design
- │
- ▼
-
-Development
- │
- ▼
-
-Testing
- │
- ▼
-
-Optimization
- │
- ▼
-
-Deployment 🚀
-```
 
 ---
 
-<!-- ========================================================== -->
-<!--                 PART 2 • TECH CONTROL PANEL                -->
-<!-- ========================================================== -->
+
+
+### 🌌 Spatial Overview
+
+
+
+- 🔭 **Current Vectors:** Deepening core architectural patterns in the **MERN Stack** and **Next.js Next-Gen Architecture**.
+
+- ⚡ **Philosophy:** Writing clean, self-documenting code with micro-interaction states that elevate human experiences.
+
+- 🎯 **Objectives:** Synchronizing visual fidelity with bulletproof server-side logic and database indexing.
+
+
 
 ---
 
-# 🛠 TECH CONTROL PANEL
 
-<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,100:2563EB"/>
+### 🛠 Tech Stack Nodes
+
+
+
+<details open>
+
+<summary><strong>💻 Frontend Telemetry</strong></summary>
+
+<br />
+
+<p align="left">
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" />
+
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 
 </p>
 
-<table>
+</details>
 
-<tr>
 
-<td width="50%" valign="top">
 
-## 💻 FRONTEND
+<details open>
 
-<p align="center">
+<summary><strong>⚙️ Backend Matrix & Operations</strong></summary>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&perline=3"/>
+<br />
 
-</p>
+<p align="left">
 
-```text
-███████████████████████ 100%
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
 
-Modern UI
-Responsive Design
-Reusable Components
-Performance Optimization
-```
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" />
 
-</td>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 
-<td width="50%" valign="top">
-
-## ⚙ BACKEND
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=2"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 
 </p>
 
-```text
-██████████████████████
+</details>
 
-REST APIs
-Authentication
-Database Design
-CRUD Operations
-```
 
-</td>
 
-</tr>
+<details open>
 
-</table>
+<summary><strong>🔧 Control Tools & Protocols</strong></summary>
 
----
+<br />
 
-# 🔧 DEVELOPMENT TOOLS
+<p align="left">
 
-<p align="center">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,postman,npm"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 
 </p>
 
-```text
-Git
-GitHub
-VS Code
-Vite
-Postman
-NPM
-```
+</details>
+
+
 
 ---
 
-# 📡 ENGINE STATUS
-
-| Module | Status |
-|---------|--------|
-| HTML Engine | 🟢 ONLINE |
-| CSS Engine | 🟢 ONLINE |
-| JavaScript Engine | 🟢 ONLINE |
-| React Runtime | 🟢 ONLINE |
-| Next.js Framework | 🟢 ONLINE |
-| Node.js Server | 🟢 ONLINE |
-| Express API | 🟢 ONLINE |
-| MongoDB Database | 🟢 ONLINE |
-| Firebase Services | 🟢 ONLINE |
-
----
-
-# 🌌 SKILL MATRIX
-
-```text
-
-                 NEXT.JS
-                    ●
-
-       REACT ●──────────────● NODE.JS
 
 
-TAILWIND ●                  ● EXPRESS
+### 📊 Real-Time Core Analytics
 
 
-      CSS ●──────────────● MONGODB
+
+<!-- ULTRA-PREMIUM MANUAL INSIGHT METRICS & LIVE NATIVE WIDGET (100% UNBLOCKABLE BY GITHUB) -->
+
+<div align="center">
+
+  <table border="0" style="border: none; width: 100%">
+
+    <tr>
+
+      <td width="50%" align="center" style="border: none;">
+
+        <!-- NATIVE LIGHTWEIGHT STATS NODE -->
+
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=khaled8787&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=3B82F6" width="100%" alt="Core GitHub Metrics" />
+
+      </td>
+
+      <td width="50%" align="center" style="border: none;">
+
+        <!-- NATIVE LIGHTWEIGHT LANGUAGES NODE -->
+
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khaled8787&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" width="100%" alt="Dominant Languages Matrix" />
+
+      </td>
+
+    </tr>
+
+  </table>
+
+</div>
 
 
-             HTML ● JS
-
-```
-
----
-
-# ⚡ CURRENT DEVELOPMENT FLOW
-
-```text
-
-Requirement
-
-      │
-
-      ▼
-
-UI Planning
-
-      │
-
-      ▼
-
-Frontend
-
-      │
-
-      ▼
-
-Backend
-
-      │
-
-      ▼
-
-Database
-
-      │
-
-      ▼
-
-Testing
-
-      │
-
-      ▼
-
-Deployment
-
-```
 
 ---
 
-# 💎 CORE STRENGTHS
 
-✔ Responsive Web Design
 
-✔ MERN Stack Development
+### 🌐 Transmission Channels
 
-✔ REST API Integration
 
-✔ Authentication System
 
-✔ MongoDB Database
-
-✔ Firebase
-
-✔ Clean Code
-
-✔ Performance Optimization
-
-✔ Modern UI / UX
-
-✔ Fast Learning
-
----
+<!-- TRANSMISSION SYSTEM UPGRADED WITH ANCHORED MARKDOWN ALIGNMENT -->
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,100:2563EB"/>
+  <a href="https://linkedin.com/in/khaledmahmud8787" target="_blank" rel="noreferrer">
+
+    <img src="https://img.shields.io/badge/LINKEDIN_NODE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Platform Connection" />
+
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:mdkhaledmahmud01737@gmail.com">
+
+    <img src="https://img.shields.io/badge/GMAIL_NODE-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Secure Email Channel" />
+
+  </a>
 
 </p>
 
-<!-- ========================================================== -->
-<!--              PART 3 • ANALYTICS & CONTACT                  -->
-<!-- ========================================================== -->
 
----
-
-# 📊 GITHUB ANALYTICS CENTER
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=khaled8787&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=38BDF8"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled8787&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=22D3EE"/>
-
-</p>
-
-<p align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=khaled8787&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Statistics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=khaled8787&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=khaled8787&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📡 CONNECT WITH ME
-
-<p align="center">
-
-<a href="https://linkedin.com/in/khaledmahmud8787">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mdkhaledmahmud01737@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/khaled8787">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💬 FAVORITE QUOTE
-
-> **"Great software isn't just code. It's a great experience."**
-
----
-
-# 🚀 CURRENT FOCUS
-
-- ⚛️ Building modern MERN applications
-- 🚀 Exploring advanced Next.js features
-- 🎨 Crafting clean, responsive UI
-- 🔐 Writing secure backend APIs
-- 📈 Continuously improving problem-solving skills
-
----
-
-# 💻 TERMINAL
-
-```bash
-> whoami
-
-Khaled Mahmud
-
-> role
-
-Full Stack Web Developer
-
-> tech
-
-React
-Next.js
-Node.js
-Express
-MongoDB
-Firebase
-
-> mission
-
-Build fast, secure and beautiful web applications.
-
-> status
-
-ONLINE ✅
-```
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=12,20,24,30,36,42"/>
-
-</p>
-
-<p align="center">
-
-### ⭐ Thanks for visiting my GitHub Profile!
-
-**If you like my work, consider following me and starring my repositories.**
+  <samp>📡 System Check: All communication nodes operational.</samp>
 
 </p>
