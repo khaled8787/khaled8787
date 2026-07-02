@@ -157,14 +157,11 @@
 
 ---
 
-<!-- ========================= -->
-<!-- 🏆 GitHub Trophy -->
-<!-- ========================= -->
-
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=khaled8787&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true"
-    alt="GitHub Trophies"
+    src="https://ghchart.rshah.org/409ba5/khaled8787"
+    alt="Khaled Mahmud's Contribution Graph"
+    width="100%"
   />
 </p>
 
