@@ -11,25 +11,19 @@
 <!-- TYPING EFFECT SUBHEADING -->
 
 <p align="center">
-
-  <a href="https://git.io/typing-svg">
-
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;Building+Digital+Ecosystems" alt="Typing SVG" />
-
-  </a>
-
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&repeat=true&width=800&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+Modern+Web+Applications"
+    alt="Typing SVG"
+  />
 </p>
 
 
 
 <p align="center">
-
-  <samp>
-
-    <strong>A passionate technologist crafting hyper-performant, secure, and visually stunning digital products.</strong>
-
-  </samp>
-
+  <b>
+    A passionate Full-Stack Developer focused on crafting scalable,
+    high-performance, secure, and visually engaging web applications.
+  </b>
 </p>
 
 
