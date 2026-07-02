@@ -163,7 +163,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=khaled8787&theme=algolia&no-frame=true&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=khaled8787&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true"
     alt="GitHub Trophies"
   />
 </p>
