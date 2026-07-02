@@ -146,28 +146,53 @@
 
 <!-- ULTRA-PREMIUM MANUAL INSIGHT METRICS & LIVE NATIVE WIDGET (100% UNBLOCKABLE BY GITHUB) -->
 
+<!-- ========================= -->
+<!-- 📊 GitHub Statistics -->
+<!-- ========================= -->
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khaled8787&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled8787&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khaled8787&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled8787&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
 
+---
+
+<!-- ========================= -->
+<!-- 🏆 GitHub Trophy -->
+<!-- ========================= -->
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=khaled8787&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=khaled8787&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
 
+---
+
+<!-- ========================= -->
+<!-- 🔥 GitHub Streak -->
+<!-- ========================= -->
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=khaled8787&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=khaled8787&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+<!-- ========================= -->
+<!-- 📈 Activity Graph -->
+<!-- ========================= -->
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khaled8787&theme=tokyo-night&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=khaled8787&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
+---
+
+<!-- ========================= -->
+<!-- 🌊 Animated Footer -->
+<!-- ========================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
 </p>
 
 ---
