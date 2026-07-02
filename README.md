@@ -146,31 +146,10 @@
 
 <!-- ULTRA-PREMIUM MANUAL INSIGHT METRICS & LIVE NATIVE WIDGET (100% UNBLOCKABLE BY GITHUB) -->
 
-<div align="center">
-
-  <table border="0" style="border: none; width: 100%">
-
-    <tr>
-
-      <td width="50%" align="center" style="border: none;">
-
-        <!-- NATIVE LIGHTWEIGHT STATS NODE -->
-
-        <img src="https://github-readme-stats.vercel.app/api?username=khaled8787&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-      </td>
-
-      <td width="50%" align="center" style="border: none;">
-
-        <!-- NATIVE LIGHTWEIGHT LANGUAGES NODE -->
-
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled8787&layout=compact&theme=tokyonight&hide_border=true" />
-      </td>
-
-    </tr>
-
-  </table>
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khaled8787&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled8787&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=khaled8787&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
