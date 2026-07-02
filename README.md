@@ -203,17 +203,11 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:mdkhaledmahmud01737@gmail.com">
-
-    <img src="https://img.shields.io/badge/GMAIL_NODE-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Secure Email Channel" />
-
-  </a>
+  <img src="https://img.shields.io/badge/GMAIL_NODE-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </p>
 
-
-
 <p align="center">
-
-  <samp>📡 System Check: All communication nodes operational.</samp>
-
+<samp>📡 System Check: All communication nodes operational.</samp>
 </p>
