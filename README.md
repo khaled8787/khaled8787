@@ -42,7 +42,7 @@
 
   <!-- BULLETPROOF TOTAL VIEWS COUNTER FROM SHIELDS.IO (100% WORKING ALTERNATIVE) -->
 
-  <img src="https://img.shields.io/badge/PROFILE_VIEWS-ACTIVATED-06b6d4?style=flat-square" alt="Profile Views Tracker" />
+  <img src="https://komarev.com/ghpvc/?username=khaled8787&label=PROFILE+VIEWS&color=06B6D4&style=for-the-badge" alt="Profile Views" />
 
 </p>
 
@@ -162,16 +162,14 @@
 
         <!-- NATIVE LIGHTWEIGHT STATS NODE -->
 
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=khaled8787&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=3B82F6" width="100%" alt="Core GitHub Metrics" />
-
+        <img src="https://github-readme-stats.vercel.app/api?username=khaled8787&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
       </td>
 
       <td width="50%" align="center" style="border: none;">
 
         <!-- NATIVE LIGHTWEIGHT LANGUAGES NODE -->
 
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khaled8787&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" width="100%" alt="Dominant Languages Matrix" />
-
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled8787&layout=compact&theme=tokyonight&hide_border=true" />
       </td>
 
     </tr>
@@ -180,7 +178,24 @@
 
 </div>
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=khaled8787&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
 
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=khaled8787&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khaled8787&theme=tokyo-night&hide_border=true"/>
+</p>
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+</p>
 
 ---
 
