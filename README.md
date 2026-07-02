@@ -199,38 +199,31 @@
 
 
 
-### 🌐 Transmission Channels
 
 
 
 <!-- TRANSMISSION SYSTEM UPGRADED WITH ANCHORED MARKDOWN ALIGNMENT -->
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/khaledmahmud8787">
+  <a href="https://linkedin.com/in/khaledmahmud8787" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  &nbsp;&nbsp;
 
   <a href="mailto:mdkhaledmahmud01737@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
-  &nbsp;&nbsp;
-
-  <a href="https://github.com/khaled8787">
+  <a href="https://github.com/khaled8787" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  &nbsp;&nbsp;
-
-  <a href="https://portfolio-website-link-here.com](https://splendorous-bublanina-bf528f.netlify.app/">
+  <a href="https://splendorous-bublanina-bf528f.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 <p align="center">
-  <b>📧 Open to Full-Time • Internship • Freelance • Remote Opportunities</b>
+  <strong>💼 Open to Full-Time • Internship • Freelance • Remote Opportunities</strong>
 </p>
